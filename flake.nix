@@ -1,7 +1,7 @@
 {
   description = "jupyer lab in container";
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/release-24.05";
+    nixpkgs.url = "github:tacogips/nixpkgs-security/ae36ce5d71747ef2655933b315a361463ea90d82";
     flake-utils.url = "github:numtide/flake-utils";
   };
   outputs =

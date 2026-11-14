@@ -1,0 +1,8 @@
+vol/**
+.envrc.private
+.direnv
+dist
+**/node_modules
+a.out
+**/out
+result
